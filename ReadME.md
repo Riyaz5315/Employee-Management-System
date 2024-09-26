@@ -45,12 +45,12 @@ pip install fpdf openpyxl mysql-connector-python
 
 ##
 Requirements:-<br>
-Python 3.x
-MySQL Server
-Python Libraries:
-mysql-connector-python
-fpdf (for PDF export)
-openpyxl (for Excel export)
+Python 3.x <br>
+MySQL Server <br>
+Python Libraries: <br>
+mysql-connector-python <br>
+fpdf (for PDF export) <br>
+openpyxl (for Excel export) <br>
 
 
 
