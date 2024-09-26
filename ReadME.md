@@ -44,8 +44,8 @@ Install the required Python libraries:-
 pip install fpdf openpyxl mysql-connector-python
 
 ##
-Requirements:-/n
-Python 3.x/n
+Requirements:-<br>
+Python 3.x
 MySQL Server
 Python Libraries:
 mysql-connector-python
