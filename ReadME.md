@@ -5,7 +5,7 @@ Overview :-
 
 This project is an Employee Management System built using Python and MySQL, designed to handle core employee management functions. It allows for the seamless addition, update, promotion, and deletion of employee records, with options to export employee data in PDF and Excel formats. The system is designed for ease of use, offering an interactive menu for navigating between the different features.
 
-Features :-
+Features :-<br>
 1.Add Employee – Allows adding new employee details including name, email, phone number, address, position, and salary.<br>
 2.Display Employee Record – Displays all employee records stored in the system.<br>
 3.Update Employee Record – Provides the option to modify employee details.<br>
